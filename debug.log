@@ -1,0 +1,4 @@
+[0124/230330.101:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[0127/002847.027:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0127/002847.035:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0127/002847.075:ERROR:exception_snapshot_win.cc(99)] thread ID 9040 not found in process
